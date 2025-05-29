@@ -17,7 +17,7 @@ The approach involves:
 
 - `rapport_en.pdf` — Full technical report detailing the theoretical framework, equations, simulation approach, and analysis of results.
 - `Presentation.pdf` — Visual presentation summarizing the methodology, physical principles, and key findings.
-- `courbe version test en legende.py` — Python simulation script:
+- `script.py` — Python simulation script:
   - Models the ball's motion using Newtonian dynamics
   - Calculates optimal impact angles and spin
   - Visualizes 3D trajectories of free kicks
