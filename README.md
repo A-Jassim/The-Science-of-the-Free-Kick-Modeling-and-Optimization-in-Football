@@ -1,4 +1,4 @@
-# ⚽ The Science of the Free Kick: Modeling and Optimization in Football
+# The Science of the Free Kick: Modeling and Optimization in Football
 
 Author: **Akram HALIMI**  
 Academic Year: **2023–2024**
